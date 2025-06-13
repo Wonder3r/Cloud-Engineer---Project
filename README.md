@@ -93,12 +93,10 @@ This opens a web dashboard in your browser where you can visually explore chroni
 
 ---
 
-## 📸 Screenshots
-
 ## 📸 Dashboard Preview
 
-![Main dashboard view](assets/Healthcare Dashboard - top.png)
-![Patient condition graph](assets/Healthcare Dashboard - bottom.png)
+![Main dashboard view](assets/HealthcareDashboard-top.png)
+![Age Distribution](assets/HealthcareDashboard-bottom.png)
 
 
 ---
